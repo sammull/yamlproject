@@ -1,0 +1,15 @@
+{
+  "name": "projectyaml",
+  "version": "1.0.0",
+  "description": "Membuat Project YAML",
+  "main": "app-example.js",
+  "dependencies": {
+    "js-yaml": "^3.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lupita Octaviani",
+  "license": "ISC"
+}
